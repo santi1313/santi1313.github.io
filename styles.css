@@ -1,0 +1,99 @@
+body {
+    background-color: rgb(255, 255, 255);
+    margin: 1em;
+}
+
+img{
+    max-width: 100%;
+    margin-bottom: 0.5em;
+    display: block;
+    /*  outline: 2px solid #fff;
+    outline-offset: -10px;*/
+    border-radius: 15px;
+
+}
+
+.galleta{
+   columns: 5 320px;
+   column-gap: 0.5em;
+
+ 
+}
+.box-hover{
+    position: absolute;
+    top: 20px;
+    background-color: rgba(0, 0, 0, 0);
+    width: 100%;
+    height: 100%;
+    border-radius: 15px;
+    
+}
+.mas{
+    position: absolute;
+    left: 350px;
+    top: 100px;
+    padding: 5px;
+    border-radius: 100%;
+}
+.more-options{
+    position: absolute;
+    top: 915px;
+    left: 270px;
+}
+
+
+
+.hola1{
+    position: absolute;
+    top: 20px;
+    background-color: rgba(0, 0, 0, 0);
+    width: 100%;
+    height: 100%;
+    border-radius: 15px;
+    
+}
+.mas1{
+    position: absolute;
+    left: 350px;
+    top: 120px;
+    padding: 5px;
+    border-radius: 100%;
+}
+.opc1{
+    position: absolute;
+    top: 750px;
+    left: 270px;
+}
+
+.hola2{
+    position: absolute;
+    top: 20px;
+    background-color: rgba(0, 0, 0, 0);
+    width: 100%;
+    height: 100%;
+    border-radius: 15px;
+    
+}
+.mas2{
+    position: absolute;
+    right: 470px;
+    top: 100px;
+    padding: 5px;
+    border-radius: 100%;
+}
+.opc2{
+    position: absolute;
+    top: 750px;
+    right: 480px;
+}
+
+.contenedor{
+    display: flex;
+    justify-content: left;
+}
+
+.boin{
+    background-color: rgb(rgb(153, 159, 159));
+    border-radius: 15px;
+    padding: 8px 300px;
+}
